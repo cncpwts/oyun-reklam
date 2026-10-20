@@ -1,0 +1,29 @@
+{
+  "rotation_seconds": 8,
+  "campaigns": [
+    {
+      "id": "test-kare-ozel",
+      "image": "kucuk_gol_cafe.png",
+      "start": "2026-10-01", "end": "2026-12-31",
+      "targets": [{"arena": "roof", "board": "AdBoard_5"}],
+      "exclusive": true
+    },
+    {
+      "id": "test-yatay-hedefli",
+      "image": "orta_mavi_market.png",
+      "start": "2026-10-01", "end": "2026-12-31",
+      "targets": [{"arena": "roof", "board": "AdBoard_2"}]
+    },
+    {
+      "id": "test-bitmis",
+      "image": "orta_mavi_market.png",
+      "start": "2026-10-01", "end": "2026-10-10",
+      "targets": [{"arena": "roof", "board": "AdBoard_4"}]
+    },
+    {
+      "id": "test-genel-dikey",
+      "image": "dikey_4x9_yildiz_pizza.png",
+      "start": "2026-10-01", "end": "2026-12-31"
+    }
+  ]
+}
